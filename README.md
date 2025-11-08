@@ -105,8 +105,8 @@ lib/
 
 > Adicione aqui as imagens do app em execução:
 > ```
-> ![Tela principal](Tela_Principal.png)
-> ![Tela de categorias](Tela_Categorias.png)
+> ![Tela principal](assets/Tela_principal.png)
+> ![Tela de categorias](assets/Tela_categorias.png.png)
 > ```
 
 ---
