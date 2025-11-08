@@ -107,7 +107,8 @@ lib/
 > 
 > ![Tela principal](assets/Tela_principal.png)
 > ![Tela de categorias](assets/Tela_categorias.png)
-> 
+
+> Link Youtube: https://youtu.be/GzCbgKT179I
 
 ---
 
