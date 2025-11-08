@@ -104,10 +104,10 @@ lib/
 ## 📸 Capturas de tela *(opcional)*
 
 > Adicione aqui as imagens do app em execução:
-> ```
+> 
 > ![Tela principal](assets/Tela_principal.png)
-> ![Tela de categorias](assets/Tela_categorias.png.png)
-> ```
+> ![Tela de categorias](assets/Tela_categorias.png)
+> 
 
 ---
 
